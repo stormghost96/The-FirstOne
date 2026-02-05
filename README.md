@@ -1,3 +1,3 @@
-# The-FirstOne
-first repo of electronics/code
-hey
+my fırst gıt repo!
+
+tring to do something like room enviroment monitor
