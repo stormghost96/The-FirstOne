@@ -1,7 +1,7 @@
 here's the code and also info's inside
 
 ************************************************************************
-```cpp
+
 #include "DHT.h"
 
 #define DHTPIN 2      // The pin where the sensor is connected (D2) 
@@ -35,5 +35,4 @@ void loop() {
   Serial.println(F("°C"));
 }
 
-```
 ************************************************************************
