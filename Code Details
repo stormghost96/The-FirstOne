@@ -1,1 +1,35 @@
+here's the code and also info's inside
+************************************************************************
+#include "DHT.h"
 
+#define DHTPIN 2      // The pin where the sensor is connected (D2) 
+#define DHTTYPE DHT11  // Defining sensor type
+
+DHT dht(DHTPIN, DHTTYPE);
+
+void setup() {
+  Serial.begin(9600);
+  Serial.println(F("DHT11 Test Starting..."));
+  dht.begin();
+}
+
+void loop() {
+  // DHT11 is a slow sensor, there should be at least 1-2 seconds between readings.
+  delay(2000);
+
+  float humidity = dht.readHumidity();
+  float temperature = dht.readTemperature();
+
+  // Reading error check
+  if (isnan(humidity) || isnan(temperature)) {
+    Serial.println(F("Failed to read from DHT sensor!"));
+    return;
+  }
+
+  Serial.print(F("Humidity: %"));
+  Serial.print(humidity);
+  Serial.print(F("  Temperature: "));
+  Serial.print(temperature);
+  Serial.println(F("°C"));
+}
+************************************************************************
