@@ -3,6 +3,10 @@ here's the code and also info's inside
 also components can change what do you want 
 and don't forget close serial monitor on start, nano's ram can't be enough all of them at same time
 
+## Libraries Used:
+1. [RTClib] by Adafruit
+2. [DHTkxn by Adafruit
+Librarys names makers are same on ArduinoIDE or VScode's PlatformIO
 ************************************************************************
 
 #include <Wire.h>
