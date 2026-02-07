@@ -22,4 +22,5 @@ This is my first electronics and coding project! I'm using an **Arduino Nano** a
 - [ ] maybe some wifi upgrade
 
 How it look on wiring is finised/ how to connect.
-![Proje Resmi](first wiringdiagram modular room&.png)
+<img width="1263" height="510" alt="first wiringdiagram modular room" src="https://github.com/user-attachments/assets/d580402c-6236-47d8-8dc3-bdfc0ac6508e" />
+
