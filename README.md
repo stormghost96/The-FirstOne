@@ -20,3 +20,6 @@ This is my first electronics and coding project! I'm using an **Arduino Nano** a
 - [ ] Add a display (OLED/LCD)
 - [ ] Add a MQ-135 for air cualility and smoke detection
 - [ ] maybe some wifi upgrade
+
+How it look on wiring is finised/ how to connect.
+![Proje Resmi](first wiringdiagram modular room&.png)
