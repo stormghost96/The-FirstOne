@@ -1,6 +1,6 @@
 # Welcome my fırst gıt repo!
 
-trying to do something like room enviroment monitor
+trying to do something like room enviroment monitor 
 
 This is my first electronics and coding project! I'm using an **Arduino Nano** and diferent sensor's to monitor my room's environment.
 
@@ -16,7 +16,7 @@ This is my first electronics and coding project! I'm using an **Arduino Nano** a
 
 ## 🗺️ Roadmap
 - [x] Read data from DHT11
-- [ ] Use a RTC (DS3231) for real time monitoring
+- [x] Use a RTC (DS3231) for real time monitoring
 - [ ] Add a display (OLED/LCD)
 - [ ] Add a MQ-135 for air cualility and smoke detection
 - [ ] maybe some wifi upgrade
