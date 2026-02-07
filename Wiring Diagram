@@ -1,2 +1,10 @@
-sorry im still learning about github and o don't know how to use png or jpeg's on there
+# How to connect everything
 
+Pin's used in project
+ NANO's:
+  D2 pin for take weather information on DHT11/ DHT11's data cord
+  A4 pin for RTC/DS3231's SDA/just D 
+  A5 pin for RTC/DS3231's SCL/C
+and ofcourse 5v(+) & GND(-) 
+
+sorry I can't find how to load png's on spesific folders wiring diagram photo on "README"
