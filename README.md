@@ -21,6 +21,6 @@ This is my first electronics and coding project! I'm using an **Arduino Nano** a
 - [ ] Add a MQ-135 for air cualility and smoke detection
 - [ ] maybe some wifi upgrade
 
-How it look on wiring is finised/ how to connect.
+How it look when wiring finished/how to connect.
 <img width="1263" height="510" alt="first wiringdiagram modular room" src="https://github.com/user-attachments/assets/d580402c-6236-47d8-8dc3-bdfc0ac6508e" />
 
